@@ -26,11 +26,11 @@ Add all variables do you use in your xaml
 
 ![Init sequence](https://github.com/echicasprado/CustomTemplateUiPath/blob/main/img/globalVariables.PNG)
 
-Body sequence}
+Body sequence
 
 Empty because this sequences you add activities
 
-![Init sequence](https://github.com/echicasprado/CustomTemplateUiPath/blob/main/img/bodytSequence.PNG)
+![Init sequence](https://github.com/echicasprado/CustomTemplateUiPath/blob/main/img/bodySequence.PNG)
 
 Final sequence
 
