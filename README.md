@@ -15,8 +15,8 @@ Add 4 sequences
 
 Init sequences
 
-Add Get current Job Info -> Get current xaml name
-Add Log -> show start current xaml name
+Add Get current Job Info for get current xaml name
+Add Log show start current xaml name
 
 ![Init sequence](https://github.com/echicasprado/CustomTemplateUiPath/blob/main/img/initSequence.PNG)
 
